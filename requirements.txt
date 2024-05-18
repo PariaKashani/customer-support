@@ -1,0 +1,16 @@
+langgraph 
+langchain-community 
+langchain-openai 
+langchain-experimental
+tavily-python 
+pandas
+python-dotenv
+requests
+openai
+transformers
+sentencepiece
+ipywidgets
+huggingface-hub
+torch
+langsmith
+chromadb
